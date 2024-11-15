@@ -21,3 +21,6 @@ The following icons are available to choose from:
 - Firefox (2009-2013)
 
 ![image](https://github.com/user-attachments/assets/0eb1452e-aeca-4b82-a319-10867eeac7bd)
+
+###### Geckium and this icon pack are not officially developed, approved, or endorsed by Google.
+###### This icon pack is not affiliated with or endorsed by Mozilla. The Firefox trademark and brand are owned by Mozilla Corporation.
