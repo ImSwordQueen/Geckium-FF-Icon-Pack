@@ -1,2 +1,12 @@
-# Geckium-FF-Icon-Pack
-An icon pack for the Windhawk mod "Resource Redirect" that replaces Firefox &amp; forks icons with Chrome/Chromium/Firefox/Geckium icons instead.
+# Resource Redirect Icon Pack
+
+This is an icon pack designed for the Resource Redirect mod for Windhawk. It replaces the default Firefox and its forks' executable icons with custom icons.
+
+## Available Icons
+
+The following icons are available to choose from:
+
+- Geckium (Default-Alt)
+- Chrome (2008-2017)
+- Chromium (2008-2017)
+- Firefox (2009-2013)
