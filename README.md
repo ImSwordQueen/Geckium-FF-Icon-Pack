@@ -1,6 +1,4 @@
-# Resource Redirect Icon Pack
-
-This is an icon pack designed for the Resource Redirect mod for Windhawk. It replaces the default Firefox and its forks' executable icons with custom icons.
+# Geckium Icon Pack
 
 ## Available Icons
 
